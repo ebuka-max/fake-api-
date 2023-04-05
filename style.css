@@ -38,10 +38,11 @@
     #cards{
         flex-direction: column;
         margin: auto;
+        padding: 20px 0;
     } 
     .card{
         width: 90%;
-        margin: auto;
+        margin: 20px auto;
     }
 }
 
