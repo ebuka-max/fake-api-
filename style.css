@@ -37,9 +37,11 @@
 @media(max-width:900px){
     #cards{
         flex-direction: column;
+        margin: auto;
     } 
     .card{
         width: 90%;
+        margin: auto;
     }
 }
 
